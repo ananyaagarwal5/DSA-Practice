@@ -22,9 +22,3 @@ Welcome to my central repository for Data Structures and Algorithms (DSA) practi
 
 ---
 
-## 📌 Notable Highlights & Approaches
-* Every solution contains inline comments explaining the **Time Complexity (O(N))** and **Space Complexity (O(1))**.
-* For complex Medium/Hard problems, I include a short breakdown of the intuition behind the optimal approach inside the respective folders.
-
----
-*Managed with love and consistency.* 💻
