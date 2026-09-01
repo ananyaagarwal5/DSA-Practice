@@ -6,12 +6,13 @@ class Solution {
         for(int i =0;i <n; i++){
             if(nums[i]==1){
                c++;
+               a = Math.max(a,c);
             }
             
             else {
                 c = 0;
             }
-             a = Math.max(a,c);
+             
         }
         return a;
     }
